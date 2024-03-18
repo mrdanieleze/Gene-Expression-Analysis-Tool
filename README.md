@@ -1,4 +1,4 @@
-# Gene Expression Python Script (GEPS)
+# Gene Expression Python Script
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 # License
