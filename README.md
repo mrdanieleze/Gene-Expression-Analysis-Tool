@@ -1,6 +1,5 @@
 # Gene Expression Python Script (GEPS)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-This script allows users to analyze gene expression by converting DNA, RNA, and protein sequences.
 
 # License
 MIT License
