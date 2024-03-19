@@ -5,6 +5,8 @@
 MIT License
 Copyright (c) 2024 Daniel Eze
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 # Description
 This repository contains a Python script for gene expression analysis. The script allows users to convert DNA sequences to RNA and protein sequences, as well as reverse translate protein sequences back to RNA and DNA. It also incorporates customizable codon usage tables, making it adaptable for different organisms.
 
