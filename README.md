@@ -1,4 +1,4 @@
-# Gene Expression Python Script
+# Gene Expression Analysis Tool 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 # License
